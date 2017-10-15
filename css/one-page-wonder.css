@@ -37,3 +37,12 @@ header.masthead > .overlay {
 .main-title{
    text-shadow: 4px 4px #000;
 }
+
+.img-rounded{
+    border-radius:    15px;
+}
+
+p{
+    font-size: 1.2em;
+    text-align: justify;
+}
