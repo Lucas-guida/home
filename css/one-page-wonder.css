@@ -15,7 +15,7 @@ body {
 }
 
 header.masthead {
-    background: url('https://unsplash.it/1900/1080?image=304') no-repeat center center scroll;
+    background: url('../public/Blogimage.2e16d0ba.fill-1440x810.png') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -32,4 +32,8 @@ header.masthead > .overlay {
     header.masthead > .overlay {
         padding: 10rem 0;
     }
+}
+
+.main-title{
+   text-shadow: 4px 4px #000;
 }
